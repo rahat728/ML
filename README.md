@@ -14,16 +14,14 @@ This repository tracks my 120-day journey in the Career Acceleration Program, fo
 - **Month 1:** Python basics, weekly page-by-page tasks, OOP fundamentals.
 - **Month 2:** Advanced OOP, developer professionalism, extra practices for enhancement.
 - **Month 3:** Collaborative projects, use case studies, schema/Docker/UI design.
-- **Month 4:** Django applications, local/cloud deployment (e.g., 3000 BDT local or free Google Cloud), ERP/MBB systems discussion.
+- **Month 4:** Django applications, local/cloud deployment.
 
 ## Daily Tracking
 Use this section to log progress. Update after each day with date and key achievements.
 
-- **01. Day 1 - 2025-12-14** - Completed initial setup; learned basic Python syntax; no copy-pasting used.
+- **01. Day 1 - 2025-12-15** - Completed initial setup; learned basic Python syntax; no copy-pasting used.
 - **02. Day 2 - 2025-12-16** - Explored OOP encapsulation; typed all code manually; added comments/docstrings.
 - **03. Day 3 - 2025-12-17** - Practiced polymorphism; synced changes to GitHub.
-
-(Add more entries as you progress.)
 
 ## Repository Structure
 - **01. Day 1/**: Daily code and notes (use .py files primarily; Jupyter Notebooks for specific tasks later).
@@ -33,13 +31,5 @@ Use this section to log progress. Update after each day with date and key achiev
 - **notes/**: Summaries on concepts like heap memory, garbage collector.
 - **LICENSE**: MIT license.
 - **README.md**: This file.
-
-## Best Practices Followed
-- All code typed manually (VS Code suggestions disabled).
-- Submissions tracked in Google Classroom.
-- Code quality: Proper naming, structure, functions, comments, docstrings.
-- Communication: English-only for professional practice.
-
-For more on Markdown formatting, refer to the program's PDF guide (headings, tables, images).
 
 <center><i>Committed to perseverance and leadership in team dynamics.</i></center>
