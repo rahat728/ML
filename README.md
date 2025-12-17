@@ -17,6 +17,9 @@ This repository tracks my 120-day journey in the Career Acceleration Program, fo
 - **Month 4:** Django applications, local/cloud deployment.
 
 ## Daily Tracking
+- **05. Day 5 - 2025-12-18** - Completed dictionaries: speed trap, safe access, frequency counter, merger.
+- **06. Day 6 - 2025-12-19** - Completed functions: scope, pure return, defaults, logic gate.
+- **07. Day 7 - 2025-12-20** - Completed error handling: input guard, math safety, finally, custom raise.
 - **01. Day 1 - 2025-12-14** - Completed all Day 1 micro-challenges: identity swap, type auditor, precision banker, modulo architect.
 - **02. Day 2 - 2025-12-15** - Completed logic flow: guard clause, floating point trap, truthiness, ternary.
 - **03. Day 3 - 2025-12-16** - Completed loops: infinite guardian, accumulator, skipper, string walker.
