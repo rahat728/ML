@@ -1,57 +1,112 @@
-#!/bin/bash
-
-# Backup first
-cp README.md README.md.backup
-
-# Rewrite Daily Tracking: Keep only detailed entries, in order Day 1 to 7
-cat <<EOF > README.md
 # Career Acceleration Challenge
 
-## Description
-This repository tracks my 120-day journey in the Career Acceleration Program, focusing on building professional Python skills, object-oriented programming (OOP) concepts (encapsulation, inheritance, abstraction, polymorphism), Django projects, Streamlit apps, and cloud deployment (local and Google Cloud). It simulates industry workflows, including schema design with Prisma, Docker setup, and front-end UI, to prepare for remote jobs in ML engineering, data science, or AI.
+## Overview
+This repository documents my **120-day Career Acceleration Challenge**, focused on building strong, industry-ready Python and backend development skills. The journey emphasizes disciplined problem-solving, object-oriented programming (OOP), real-world project workflows, and deployment readiness.
 
-## Personal Goals
-- Master Python typing speed and avoid copy-pasting to build a developer mindset.
-- Complete weekly official tasks from the PDF handbook and bonus practices.
-- Deploy a production-level Django project by month 4.
-- Secure a remote internship or contractual scholarship (e.g., \$500–\$3000) in the UK, Canada, or similar.
-- Prepare for interviews with 1500+ practice questions and mock sessions.
+The program is designed to prepare me for **remote internships or junior roles** in:
+- Python Development
+- Data Science / ML Engineering
+- AI-focused software roles
 
-## What This Covers
-- **Month 1:** Python basics, weekly page-by-page tasks, OOP fundamentals.
-- **Month 2:** Advanced OOP, developer professionalism, extra practices for enhancement.
-- **Month 3:** Collaborative projects, use case studies, schema/Docker/UI design.
-- **Month 4:** Django applications, local/cloud deployment (e.g., 3000 BDT local or free Google Cloud), ERP/MBB systems discussion.
+---
 
-## Daily Tracking
-Use this section to log progress. Update after each day with date and key achievements.
+## Learning Objectives
+- Build strong Python fundamentals with zero copy-pasting
+- Develop clean thinking using OOP principles:
+  - Encapsulation
+  - Inheritance
+  - Abstraction
+  - Polymorphism
+- Follow professional development workflows
+- Prepare for technical interviews and remote job readiness
 
-- **01. Day 1 - 2025-12-15** - Completed all Day 1 micro-challenges: identity swap, type auditor, precision banker, modulo architect.
-- **02. Day 2 - 2025-12-16** - Completed logic flow: guard clause, floating point trap, truthiness inspector, ternary packer.
-- **03. Day 3 - 2025-12-17** - Completed loops: infinite guardian, accumulator pattern, efficient skipper, string walker.
-- **04. Day 4 - 2025-12-18** - Completed lists: reference trap, slicing surgeon, stack emulator, one-line architect (list comprehension).
-- **05. Day 5 - 2025-12-19** - Completed dictionaries: speed trap lookup, safe vault access, frequency counter, database merger.
-- **06. Day 6 - 2025-12-20** - Completed functions: scope fortress, pure return, default gateway, logic gate (is_even).
-- **07. Day 7 - 2025-12-21** - Completed error handling: input guard, math safety net, cleanup crew (finally), custom signal (raise).
+---
+
+## Program Roadmap
+
+### Month 1 — Core Python & OOP Foundations
+- Python basics (types, control flow, loops, data structures)
+- Daily micro-challenges
+- Writing clean, readable, typed code
+
+### Month 2 — Advanced OOP & Professional Practices
+- Advanced function design
+- Error handling & robustness
+- Developer discipline and best practices
+
+### Month 3 — Project-Based Learning
+- Collaborative-style projects
+- Schema design (Prisma concepts)
+- Docker fundamentals
+- UI & system-level thinking
+
+### Month 4 — Production Applications
+- Django backend development
+- Streamlit apps
+- Local & cloud deployment (Google Cloud / local hosting)
+- ERP-style and MBB-inspired system discussions
+
+---
+
+## Daily Progress Log (Week 1)
+
+- **Day 1 — 2025-12-15**  
+  Completed micro-challenges: identity swap, type auditor, precision banker, modulo architect.
+
+- **Day 2 — 2025-12-16**  
+  Implemented logic flow tasks: guard clause, floating point trap, truthiness inspector, ternary packer.
+
+- **Day 3 — 2025-12-17**  
+  Mastered loop patterns: infinite guardian, accumulator pattern, efficient skipper, string walker.
+
+- **Day 4 — 2025-12-18**  
+  Worked with lists: reference trap, slicing surgeon, stack emulator, list comprehension architect.
+
+- **Day 5 — 2025-12-19**  
+  Dictionary challenges: optimized lookup, safe access, frequency counter, data merge logic.
+
+- **Day 6 — 2025-12-20**  
+  Functions & scope: scope fortress, pure return logic, default arguments, `is_even` gate.
+
+- **Day 7 — 2025-12-21**  
+  Error handling: input validation, math safety, cleanup with `finally`, custom exceptions.
+
+---
 
 ## Repository Structure
-- **01. Day 1/** → **07. Day 7/**: Daily micro-challenge solutions (.py files with docstrings).
-- **projects/**: Future Django/Streamlit apps and capstone.
-- **notes/**: Concept summaries (e.g., heap memory, garbage collector).
-- **LICENSE**: MIT license.
-- **README.md**: This file.
 
-## Best Practices Followed
-- All code typed manually (no copy-pasting).
-- Professional naming, comments, docstrings.
-- Submissions via Google Classroom links.
-- English communication for job readiness.
+Day 1/
 
-<center><i>Committed to perseverance and leadership in team dynamics.</i></center>
-EOF
+Day 2/
 
-git add README.md
-git commit -m "Cleaned README: Removed duplicates, ordered Daily Tracking Day 1-7 with detailed achievements"
-git push origin main
+Day 3/
 
-echo "README cleaned and professional! Week 1 fully showcased."
+Day 4/
+
+Day 5/
+
+Day 6/
+
+Day 7/
+projects/
+notes/
+LICENSE
+README.md
+
+
+- **Day folders** contain Python solutions with docstrings
+- **projects/** will host Django and Streamlit applications
+- **notes/** includes conceptual explanations (memory, GC, architecture)
+
+---
+
+## Development Principles
+- All code written manually (no copy-paste)
+- Clear naming, comments, and docstrings
+- English-only communication for professional readiness
+- Consistent daily progress tracking
+
+---
+
+*Committed to consistency, discipline, and long-term career growth.*
+
