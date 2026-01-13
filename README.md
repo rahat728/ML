@@ -48,7 +48,7 @@ The program is designed to prepare me for **remote internships or junior roles**
 
 ---
 
-## Daily Progress Log (Week 1)
+## Daily Progress Log
 
 - **Day 1 — 2025-12-15**  
   Completed micro-challenges: identity swap, type auditor, precision banker, modulo architect.
@@ -80,6 +80,9 @@ The program is designed to prepare me for **remote internships or junior roles**
 - **Day 11 — 2026-01-12**  
   Functional Programming Mastery: implemented micro-challenges for anonymous functions (`lambda`), `map`, `filter`, `reduce` (collapsing lists), `zip` (dictionary building), custom sorting keys, list comprehension performance, short-circuiting logic with `any`/`all`, partial functions (freezing arguments), and the core principle of functional immutability.
 
+- **Day 12 — 2026-01-13**
+  Object Oriented Programming (OOP) Blueprint: implemented `User` class basics, `self` reference mechanics, string representation (`__str__`/`__repr__`), encapsulation with private variables (`__password`), `@property` decorator for computed attributes, class vs instance variables, inheritance (`Admin` subclass), `super()` proxy for parent verification, operator overloading (`__add__`), and equality comparison (`__eq__`).
+
 ---
 
 ## Repository Structure
@@ -95,6 +98,7 @@ Day 8/
 Day 9/
 Day 10/
 Day 11/
+Day 12/
 projects/
 notes/
 LICENSE
