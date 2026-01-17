@@ -83,6 +83,9 @@ The program is designed to prepare me for **remote internships or junior roles**
 - **Day 12 — 2026-01-13**
   Object Oriented Programming (OOP) Blueprint: implemented `User` class basics, `self` reference mechanics, string representation (`__str__`/`__repr__`), encapsulation with private variables (`__password`), `@property` decorator for computed attributes, class vs instance variables, inheritance (`Admin` subclass), `super()` proxy for parent verification, operator overloading (`__add__`), and equality comparison (`__eq__`).
 
+- **Day 13 — 2026-01-17**
+  Persistence & Context Managers: mastered file I/O safety with `with open(...)`, appended vs wrote data, handled binary streams (images), fixed `UnicodeDecodeError` encoding issues, serialized complex data with JSON and CSV, optimized I/O with buffering, managed paths cross-platform with `pathlib`, built custom context managers with `__enter__`/`__exit__`, and explored object serialization risks with `pickle`.
+
 ---
 
 ## Repository Structure
